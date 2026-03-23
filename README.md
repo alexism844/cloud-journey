@@ -1,4 +1,4 @@
-# cloud-journey
+# Cloud-journey
 My hands-on cloud build log, projects, and reflections.
 
 # Cloud Journey (Public Proof Log)
